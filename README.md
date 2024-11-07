@@ -12,18 +12,18 @@ Each assignment folder includes three files:
 
 Here is a list of the assignments, along with their respective topics:
 
-1. **[Assignment 1: Introduction](assignments/Assignment_1)**
-2. **[Assignment 2: Discriminative Classifiers](assignments/Assignment_2)**
-3. **[Assignment 3: Neural Networks](assignments/Assignment_3)**
-4. **[Assignment 4: Backpropagation](assignments/Assignment_4)**
-5. **[Assignment 5: Optimization](assignments/Assignment_5)**
-6. **[Assignment 6: Evaluation](assignments/Assignment_6)**
-7. **[Assignment 7: Complexity and SVM](assignments/Assignment_7)**
-8. **[Assignment 8: Convolutional Neural Networks (CNN)](assignments/Assignment_8)**
-9. **[Assignment 9: Regularization](assignments/Assignment_9)**
-10. **[Assignment 10: Recurrent Neural Networks (RNN)](assignments/Assignment_10)**
-11. **[Assignment 11: Self-Attention](assignments/Assignment_11)**
-12. **[Assignment 12: Unsupervised Learning](assignments/Assignment_12)**
+1. **[Assignment 1: Introduction](./Assignment_1)**
+2. **[Assignment 2: Discriminative Classifiers](./Assignment_2)**
+3. **[Assignment 3: Neural Networks](./Assignment_3)**
+4. **[Assignment 4: Backpropagation](./Assignment_4)**
+5. **[Assignment 5: Optimization](./Assignment_5)**
+6. **[Assignment 6: Evaluation](./Assignment_6)**
+7. **[Assignment 7: Complexity and SVM](./Assignment_7)**
+8. **[Assignment 8: Convolutional Neural Networks (CNN)](./Assignment_8)**
+9. **[Assignment 9: Regularization](./Assignment_9)**
+10. **[Assignment 10: Recurrent Neural Networks (RNN)](./Assignment_10)**
+11. **[Assignment 11: Self-Attention](./Assignment_11)**
+12. **[Assignment 12: Unsupervised Learning](./Assignment_12)**
 
 
 ## Additional Resources
